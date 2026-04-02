@@ -1,0 +1,18 @@
+.hero-headline {
+    font-size: 60px;
+}
+.sneak-img {
+    
+    max-height: 400px;
+}
+.img-card-top {
+    max-height: 250px;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+.img-card-top:hover {
+    transform: scale(1.2);
+}
+.img-wrapper {
+    overflow: hidden;
+}
